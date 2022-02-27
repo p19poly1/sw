@@ -26,6 +26,9 @@
 Προκειμένου να δημιουργήσω το βιογραφικό μου επέλεξα το 6ο από τα προτεινόμενα templates από τον Ben Moore.
 Επίσης δημιουργήσαμε τον οργανισμό LostMpodis, όπου βρίσκεται και το αποθετήριο του Webring με το βιογραφικό μου.
 Σχετικά Links:
+
 Βιογραφικό: [Repo](https://github.com/p19poly1/md-cv/blob/master/index.md) | [Site](https://p19poly1.github.io/md-cv/)
+
 Organization: [LostMpodies](https://github.com/LostMpodis)
+
 Webring: [Repo](https://github.com/LostMpodis/webring) | [Site](https://lostmpodis.github.io/webring/)
