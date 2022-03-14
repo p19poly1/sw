@@ -40,8 +40,8 @@ Webring: [Repo](https://github.com/LostMpodis/webring) | [Site](https://lostmpod
 
 [Demo site](https://p19poly1.netlify.app/people/)
 
-Αποθετήρια [sitegr](https://github.com/p19poly1/sitegr) [all_collections](https://github.com/p19poly1/all_collections)
+Αποθετήρια [sitegr](https://github.com/p19poly1/sitegr) | [all_collections](https://github.com/p19poly1/all_collections)
 
 [Issue](https://github.com/ioniodi/sitegr/issues/340)
 
-Pull requests [sitegr](https://github.com/ioniodi/sitegr/pull/348) [all_collections](https://github.com/ioniodi/all_collections/pull/39)
+Pull requests [sitegr](https://github.com/ioniodi/sitegr/pull/348) | [all_collections](https://github.com/ioniodi/all_collections/pull/39)
