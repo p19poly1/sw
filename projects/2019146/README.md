@@ -32,3 +32,11 @@
 Organization: [LostMpodies](https://github.com/LostMpodis)
 
 Webring: [Repo](https://github.com/LostMpodis/webring) | [Site](https://lostmpodis.github.io/webring/)
+
+## 3. Αίτημα ενσωμάτωσης στην ιστοσελίδα
+Το αίτημα ενσωμάτωσής μου στην ιστοσελίδα αφορά την αλλαγή βαθμίδας του καθηγητή Μιχαήλ Στεφανιδάκη από 3 σε 2 από το αρχείο all_collections/_people/mistral.md , δηλαδή από επίκουρο καθηγητή σε αναπληρωτή.
+Για τα βήματα αυτά ακολούθησα τις οδηγίες δημιουργώντας demo-branch κλαδιά στα αποθετήρια sitegr και all_collections. Πραγματοποίησα τις αλλαγές σε αυτά τα κλαδιά και στη συνέχεια έλεγξα πως η αλλαγή πραγματοποιήθηκε επιτυχώς στο site. Τέλος, δημιούργησα ένα pull request.
+[Demo site](https://p19poly1.netlify.app/people/)
+Αποθετήρια [sitegr](https://github.com/p19poly1/sitegr) [all_collections](https://github.com/p19poly1/all_collections)
+[Issue](https://github.com/ioniodi/sitegr/issues/340)
+Pull requests [sitegr](https://github.com/ioniodi/sitegr/pull/348) [all_collections](https://github.com/ioniodi/all_collections/pull/39)
