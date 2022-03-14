@@ -7,7 +7,7 @@
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](#εισαγωγή) |https://github.com/courses-ionio/help/discussions/74 | |
 | 2 | βιογραφικό και δημιουργία ομάδας |https://github.com/courses-ionio/help/discussions/209 | |
-| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
+| 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα |https://github.com/courses-ionio/help/discussions/398 | |
 | 4 | Άσκηση γραμμής εντολών | | |
 | 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
 | 6 | Άσκηση γραμμής εντολών | | |
