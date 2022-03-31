@@ -45,3 +45,12 @@ Webring: [Repo](https://github.com/LostMpodis/webring) | [Site](https://lostmpod
 [Issue](https://github.com/ioniodi/sitegr/issues/340)
 
 Pull requests [sitegr](https://github.com/ioniodi/sitegr/pull/348) | [all_collections](https://github.com/ioniodi/all_collections/pull/39)
+
+## 5. Συμμετοχικό Περιεχόμενο Α
+
+Για το πέμπτο παραδοτέο πρόσθεσα στο site τα βιντεοπαιχνίδια Island of Kesmai, ως το πρώτο multiplayer παιχνίδι, και το Maze War, ως το πρώτο First Person Shooter παιχνίδι.
+
+| | Repository | Netlify | Διαφάνειες | Χρονολόγιο |
+| --- | --- | --- | --- | --- |
+| Island of Kesmai | [island-of-kesmai.md](https://github.com/p19poly1/_gallery/blob/demo-_gallery/island-of-kesmai.md) . [image](https://github.com/p19poly1/images/blob/demo-images/island-of-kesmai.jpg) . [Thumbnail](https://github.com/p19poly1/images/blob/demo-images/island-of-kesmai-thumb.jpg) |  [Island of Kesmai](https://p19poly1-site.netlify.app//gallery/island-of-kesmai/) | [Βιντεοπαιχνίδια](https://p19poly1-site.netlify.app//slides/videogames/) | [Βιντεοπαιχνίδια](https://p19poly1-site.netlify.app//timeline/videogames/) | 
+| Maze War | [maze-war.md](https://github.com/p19poly1/_gallery/blob/demo-_gallery/maze-war.md) . [Image](https://github.com/p19poly1/images/blob/demo-images/maze-war.jpg) . [Thumbnail](https://github.com/p19poly1/images/blob/demo-images/maze-war-thumb.jpg) | [Maze War](https://p19poly1-site.netlify.app//gallery/maze-war/) | [Βιντεοπαιχνίδια](https://p19poly1-site.netlify.app//slides/videogames/) | [Βιντεοπαιχνίδια](https://p19poly1-site.netlify.app//timeline/videogames/) |
